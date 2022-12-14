@@ -1,9 +1,9 @@
 # clone project from master branch
 
-git clone https://github.com/arslanbawa/eCharts-PLC.git
-cd eCharts-PLC
-npm install
-npm start
+git clone https://github.com/arslanbawa/eCharts-PLC.git <br />
+cd eCharts-PLC <br />
+npm install <br />
+npm start <br />
 
 ## Available Scripts
 
