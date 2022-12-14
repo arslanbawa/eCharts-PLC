@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# clone project from master branch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+git clone https://github.com/arslanbawa/eCharts-PLC.git
+cd eCharts-PLC
+npm install
+npm start
 
 ## Available Scripts
 
